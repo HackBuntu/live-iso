@@ -126,3 +126,8 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+xfce4
+xfce4-goodies
+xfce4-terminal
+lightdm
+lightdm-gtk-greeter
